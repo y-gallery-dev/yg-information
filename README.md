@@ -7,7 +7,7 @@ Hi all. We figured we'd make a public document that has a record of every edit a
 We've enabled the `Sponsor` feature on this repo for if you want to support us financially. @brocococonut is currently shouldering the all alpha and beta related costs, including this github org, server costs, etc - so if you can help him out, that'd be greatly appreciated.
 
 - [ ] Site General (In Progress)
-    - [ ] ToS (In Progress)
+    - [x] ToS
     - [ ] Y!aux (In Progress)
 - [ ] Submissions (In Progress)
     - [x] Create/Edit (text and image)
